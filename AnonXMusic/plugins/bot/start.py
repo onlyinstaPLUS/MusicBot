@@ -65,7 +65,7 @@ async def start_pm(client, message: Message, _):
             key = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text=_["S_B_8"], url=https://graph.org/file/4462a3f133cf73016ffe7.mp4),
+                        InlineKeyboardButton(text=_["S_B_8"], url=link),
                         InlineKeyboardButton(text=_["S_B_9"], url=config.SUPPORT_CHAT),
                     ],
                 ]
