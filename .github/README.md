@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ᴀɴᴏɴ  ᴍᴜsɪᴄ 」──
+    ──「 𓆩𝙎𝙖𝙣𝙖𝙩𝙖𝙣𝙞 ✘ 𝙈𝙪𝙨𝙞𝙘𓆪 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
+  <img src="https://graph.org/file/e47d7251464ca14a7f576.jpg">
 </p>
 
 <p align="center">
